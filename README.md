@@ -10,5 +10,8 @@ This is a simple React-based To-Do List application that allows users to:
 HOW TO RUN?
 
 1) Clone the repository
-2) Install dependencies - npm install
-3) Run the app - npm start
+    git clone
+    https://github.com/anjalii-sachan/TO-DO-LIST.git
+    cd TO-DO-LIST
+3) Install dependencies - npm install
+4) Run the app - npm start
